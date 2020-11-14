@@ -5,7 +5,7 @@ Skills: Flutter / Java / NodeJs
  Looking to colaborate on anything Nice😋
  Oh Yh I Live FLUTTER💙 and NODEJS💚
 
-## Wanna Talk?:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/AdioleDivine)
+#### Wanna Talk?:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/AdioleDivine)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdioleDivine&show_icons=true) 
 
