@@ -7,7 +7,7 @@ Skills: Flutter / Java / NodeJs
 
 #### Wanna Talk?:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/AdioleDivine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://divdotdev.netlify.app)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdioleDivine&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zazaman&show_icons=true) 
 
 <!--
 **AdioleDivine/AdioleDivine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
