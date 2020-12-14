@@ -1,13 +1,13 @@
 ### Hi there👋, I'm Divine.
 
-Skills: Flutter / Java / NodeJs
+- Skills: Flutter / Java / NodeJs
 
- ##### Looking to colaborate on anything Nice😋
- ##### Oh Yh I Live FLUTTER💙 and NODEJS💚
+- Looking to colaborate on anything Nice😋
+- Oh Yh I Live FLUTTER💙 and NODEJS💚
 
-#### Wanna Talk?:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/AdioleDivine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://divdotdev.netlify.app)  
+- Wanna Talk?:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/AdioleDivine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://divdotdev.netlify.app)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdioleDivine&show_icons=true) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdioleDivine&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **AdioleDivine/AdioleDivine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
