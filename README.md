@@ -1,8 +1,7 @@
 ### Hi there👋, I'm Divine.
 
 - 🌱Skills: Flutter / Java / NodeJs
-
- 🔭Looking to colaborate on anything Nice😋
+- 🔭Looking to colaborate on anything Nice😋
 - ⚡ Fun fact: Gamer, Anime Lover, 
 - 😄Oh Yh I Live FLUTTER💙 and NODEJS💚
 
