@@ -2,7 +2,7 @@
 
 - Skills: Flutter / Java / NodeJs
 
-- Looking to colaborate on anything Nice😋
+ Looking to colaborate on anything Nice😋
 - Oh Yh I Live FLUTTER💙 and NODEJS💚
 
 - Wanna Talk?:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/AdioleDivine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://divdotdev.netlify.app)  
